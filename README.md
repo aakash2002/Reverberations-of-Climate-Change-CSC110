@@ -5,3 +5,4 @@ The project discusses about the core challenges we face in present age regarding
 
 The program also predicts and visualizes the rise in land temperatures and greenhouse gasses emission indicating potential results in the future by analyzing the given datasets.
 
+Please read the formal project report on how to navigate through the program.
